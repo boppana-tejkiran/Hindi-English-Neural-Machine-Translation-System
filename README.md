@@ -4,6 +4,7 @@ In this project, a Hindi to English Neural Machine Translation(NMT) system is im
 
 The train and test data (Hindi Sentences) are present in **Dataset** directory and NMT-Models are present in **Models** folder.
 
+
 Following are the different Neural Machine Translation architectures and models that are implemented:
 * Sequence to Sequence (Encoder-Decoder) based Architecture
   Models implemented:
@@ -11,6 +12,7 @@ Following are the different Neural Machine Translation architectures and models 
   * Sequence to Sequence Model with bidirectional LSTM
   * Sequence to Sequence model with attention mechanism
 * Transformer based Architecture
+
 
 Details about the implementation of models and their performance is explained in **NMT Report.pdf** file present in the repository.
 
